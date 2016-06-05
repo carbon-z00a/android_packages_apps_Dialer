@@ -295,9 +295,7 @@
   <string name="simContacts_emptyLoading">SIM كارتىدىن يۈكلەۋاتىدۇ…</string>
   <!-- Dialog title displayed when loading a phone number from the SIM card for speed dial -->
   <string name="simContacts_title">SIM كارتىدىكى ئالاقەداشلار</string>
-<<<<<<< HEAD
   <string name="call_log_activity_title_font_family">sans-serif-light</string>
-=======
   <!-- Message displayed when there is no application available to handle the add contact menu option. [CHAR LIMIT=NONE] -->
   <!-- Message displayed when there is no application available to handle voice search. [CHAR LIMIT=NONE] -->
   <!-- Message displayed when the Phone application has been disabled and a phone call cannot
@@ -313,7 +311,6 @@
   <!-- Text displayed when the list of missed calls is empty -->
   <!-- Text displayed when the list of voicemails is empty -->
   <!--  Menu option to show favorite contacts only -->
->>>>>>> ee3940b... Automatic translation import
   <string name="show_favorites_only">دائىملىق ئالاقەداشلارنىلا كۆرسەت</string>
   <!--  Title of activity that displays a list of all calls -->
   <string name="call_log_activity_title">تارىخ</string>
